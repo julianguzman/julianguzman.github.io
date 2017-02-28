@@ -472,9 +472,19 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#social-buttons4-1a .mbr-section-title,
-#social-buttons4-1a .btn-social {
+#msg-box6-7 .mbr-section-title,
+#msg-box6-7 .lead p {
   color: #fff;
+}
+#features7-a .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-a .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
+#features7-a P {
+  text-align: center;
 }
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
@@ -537,17 +547,7 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box6-7 .mbr-section-title,
-#msg-box6-7 .lead p {
+#social-buttons4-1a .mbr-section-title,
+#social-buttons4-1a .btn-social {
   color: #fff;
-}
-#features7-a .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-a .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
-}
-#features7-a P {
-  text-align: center;
 }
