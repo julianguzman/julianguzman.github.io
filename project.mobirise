@@ -47,7 +47,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guzman-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guzman-composite-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian%20guzman%20composite-2000x2000.jpg",
                 "caption": "Avengers Composite",
                 "active": false
               },
@@ -57,7 +57,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guzman-hulk-fist-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guzman-hulk-fist-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian%20guzman%20hulk%20fist-2000x2000.jpg",
                 "caption": "Hulk Fist",
                 "active": false
               },
@@ -67,7 +67,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kyrie-game-winner-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kyrie-game-winner-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kyrie%20game%20winner-2000x2000.jpg",
                 "caption": "Crop Action&nbsp;",
                 "active": false
               },
@@ -77,7 +77,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jordan-dunk-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jordan-dunk-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jordan%20dunk-2000x2000.jpg",
                 "caption": "Layer Adjustment",
                 "active": false
               },
@@ -87,7 +87,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/james-harden-pot-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/james-harden-pot-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/james%20harden%20pot-2000x2000.jpg",
                 "caption": "Stroke and Border Adjustment",
                 "active": false
               },
@@ -97,7 +97,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lebron-powder-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lebron-powder-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lebron%20powder-2000x2000.jpg",
                 "caption": "Tint Adjustment",
                 "active": true
               },
@@ -107,7 +107,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/westbrook-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/westbrook-3-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/westbrook%203-2000x2000.jpg",
                 "caption": "Filter Adjustment",
                 "active": false
               }
@@ -561,7 +561,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/westbrook-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/westbrook-3-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/westbrook%203-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -571,7 +571,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kyrie-game-winner-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kyrie-game-winner-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kyrie%20game%20winner-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -581,7 +581,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guzman-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guzman-composite-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian%20guzman%20composite-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -591,7 +591,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-guzman-hulk-fist-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian-guzman-hulk-fist-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian%20guzman%20hulk%20fist-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
