@@ -551,3 +551,22 @@ h6,
 #social-buttons4-1a .btn-social {
   color: #fff;
 }
+#contacts5-1n p,
+#contacts5-1n .list-group-text,
+#contacts5-1n .form-control-label {
+  color: #000;
+}
+#contacts5-1n strong,
+#contacts5-1n h4 {
+  color: #7e9b9f;
+}
+#contacts5-1n form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-1n .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-1n .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
