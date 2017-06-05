@@ -547,6 +547,13 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-24 .mbr-section-title,
+#header3-24 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-24 H3 {
+  color: #ffffff;
+}
 #social-buttons4-1a .mbr-section-title,
 #social-buttons4-1a .btn-social {
   color: #fff;
